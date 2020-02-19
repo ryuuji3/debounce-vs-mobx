@@ -1,0 +1,20 @@
+{
+  "name": "debounce-vs-mobx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "josh",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@sinonjs/fake-timers": "^6.0.0",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0",
+    "lodash.debounce": "^4.0.8",
+    "mobx": "^5.15.4"
+  }
+}
